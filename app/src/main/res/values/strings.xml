@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">YourAnimeListTest</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">S1w1qeqFMQxgv5UX99AqPCWQbidwwoBhh8c1J8K5</string>
+    <string name="back4app_client_key">rV6wafGTyoyruC9L97DAzv17ls8sdCVMHiMhqOu4</string>
 </resources>
