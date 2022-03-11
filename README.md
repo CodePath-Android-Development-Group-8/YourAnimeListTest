@@ -33,6 +33,7 @@
 - [ ] User can search for anime using MyAnimeListAPI
 - [ ] User can change the status of the anime (watching, completed, plan-on watching)
 - [ ] Have a navigation bar for separate tabs
+- [x] User can see suggested anime
 - [x] Show a home screen of seasonal recommendation anime from MyAnimeListAPI
 
 **Optional Nice-to-have Stories**
@@ -47,6 +48,10 @@ Sprint 1:
 Sprint 2:
 
 <img src="walkthrough2_persistent_login_and_recyclerview.gif" title='Video Walkthrough 2' width='' alt='Video Walkthrough' />
+
+Sprint 3: 
+
+<img src="walkthrough3_recyclerview.gif" title='Video Walkthrough 3' width='' alt='Video Walkthrough' />
 
 ### 2. Screen Archetypes
 
